@@ -13,4 +13,5 @@ My current projects include:
 - **BOA**: A system to formalize and solve the jailbreak oracle problem for LLMs using search over different decoding paths.
 - [**NN4SysBench**](https://shuyilinn.github.io/BenchmarkWeb/): A benchmark for studying neural network verification in computer systems, accepted to NeurIPS 2024 (Datasets & Benchmarks Track).
 
-Outside of research, I enjoy cooking and driving. When I get stuck on research, I also enjoy cleaning my room :)
+Outside of research, I enjoy driving and visiting U.S. National Parks. 
+When I get stuck on research, I also enjoy cleaning my room :)
