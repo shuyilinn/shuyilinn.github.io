@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Northeastern University, 2029 (expected)
 * M.S. in Computer Science, Northeastern University, 2024
-* B.S., Zhejiang University
+* B.S., Zhejiang University, 2020
 
 <!-- Work experience
 ======
