@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Northeastern University, 2029 (expected)
+* M.S. in Computer Science, Northeastern University, 2024
+* B.S., Zhejiang University
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -39,14 +39,15 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<!-- * Shuyi Lin, Anshuman Suri, Alina Oprea, Cheng Tan. Toward Principled LLM Safety Testing: Solving the Jailbreak Oracle Problem. Submitted to MLSys 2026. -->
+* Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh. Specification Generation for Neural Networks in Networking Systems. ICML 2025 Workshop ML4Wireless.
+* Shuyi Lin, Haoyu He, Tianhao Wei, Kaidi Xu, Huan Zhang, Gagandeep Singh, Changliu Liu, and Cheng Tan. NN4SysBench: Characterizing Neural Network Verification for Computer Systems. NeurIPS 2024, Datasets and Benchmarks Track.
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
