@@ -18,11 +18,11 @@ My current projects include:
 - **Reviewer**: NeurIPS and NeurIPS-affiliated workshops (2025)
 - **Teaching Assistant**: CS5600 (Spring 2026), CS7670 (Spring 2025)
 
-### Travel Support
+<!-- ### Travel Support
 
 - OSDI 2023
 - MLSys 2024
-- SOSP 2024
+- SOSP 2025 -->
 
 Outside of research, I enjoy driving and visiting U.S. National Parks.  
 When I get stuck on research, I also enjoy cleaning my room :)
