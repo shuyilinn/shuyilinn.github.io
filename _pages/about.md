@@ -15,18 +15,18 @@ My current projects include:
 
 ### Service
 
-- **Reviewer**:
-  - **Conferences**: NeurIPS 2025
-  - **Workshops**: NeurIPS 2025 Workshops
-- **Teaching Assistant**:
+- Reviewer:
+  - Conferences: NeurIPS 2025
+  - Workshops: NeurIPS 2025 Workshops
+- Teaching Assistant:
   - CS5600 (Spring 2026)
   - CS7670 (Spring 2025)
 
 ### Honors & Awards
 
-- **Travel Grant**, SOSP 2025
-- **Travel Grant**, MLSys 2024
-- **Travel Grant**, OSDI 2023
+- Travel Grant, SOSP 2025
+- Travel Grant, MLSys 2024
+- Travel Grant, OSDI 2023
 
 Outside of research, I enjoy driving and visiting U.S. National Parks.  
 When I get stuck on research, I also enjoy cleaning my room :)
