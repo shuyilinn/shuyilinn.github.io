@@ -24,7 +24,7 @@ My current projects include:
 
 ### Honors & Awards
 
-- Travel Grant, SOSP 2025
+- Travel Grant, SOSP 2024
 - Travel Grant, MLSys 2024
 - Travel Grant, OSDI 2023
 
