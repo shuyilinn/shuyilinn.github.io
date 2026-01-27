@@ -10,7 +10,7 @@ redirect_from:
 I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). My research focuses on the intersection of large language model (LLM) systems and LLM safety. I also work on neural networks for computer systems.
 
 My current projects include:
-- **BOA**: A system to formalize and solve the jailbreak oracle problem for LLMs using search over different decoding paths.
+- **BOA**: A system to formalize and solve the jailbreak oracle problem for LLMs using search over different decoding paths, accepted to **MLSys 2026**.
 - [**NN4SysBench**](https://shuyilinn.github.io/BenchmarkWeb/): A benchmark for studying neural network verification in computer systems, accepted to **NeurIPS 2024** (Datasets & Benchmarks Track).
 
 ### Service
@@ -20,7 +20,7 @@ My current projects include:
   - Workshops: NeurIPS 2025 Workshops
 - Teaching Assistant:
   - CS5600 (Spring 2026)
-  - CS7670 (Spring 2025)
+  - CS6640 (Spring 2025)
 
 ### Honors & Awards
 
