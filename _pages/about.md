@@ -7,11 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). My research focuses on the intersection of large language model (LLM) systems and LLM safety. I also work on neural networks for computer systems.
+I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to better evaluate LLMs.
+Outside of research, I enjoy driving and visiting U.S. National Parks.  
 
-My current projects include:
-- **BOA**: A system to formalize and solve the jailbreak oracle problem for LLMs using search over different decoding paths, accepted to **MLSys 2026**.
-- [**NN4SysBench**](https://shuyilinn.github.io/BenchmarkWeb/): A benchmark for studying neural network verification in computer systems, accepted to **NeurIPS 2024** (Datasets & Benchmarks Track).
+
+### Publications
+
+- Shuyi Lin, Anshuman Suri, Alina Oprea, Cheng Tan. Toward Principled LLM Safety Testing: Solving the Jailbreak Oracle Problem. MLSys 2026.  
+  [Website](to appear) [Paper](https://arxiv.org/pdf/2506.17299) [Code](to appear)
+
+- Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh. Specification Generation for Neural Networks in Networking Systems. ICML 2025 Workshop ML4Wireless.  
+  [Paper](to appear) [Code](to appear)
+
+- Shuyi Lin, Haoyu He, Tianhao Wei, Kaidi Xu, Huan Zhang, Gagandeep Singh, Changliu Liu, and Cheng Tan. NN4SysBench: Characterizing Neural Network Verification for Computer Systems. NeurIPS 2024, Datasets and Benchmarks Track.  
+  [Website](https://shuyilinn.github.io/BenchmarkWeb/) [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a652ef11196e949d079e2818574e7e3d-Paper-Datasets_and_Benchmarks_Track.pdf) [Code](https://github.com/Khoury-srg/NN4SysBench/tree/main)
 
 ### Service
 
@@ -28,5 +37,10 @@ My current projects include:
 - Travel Grant, MLSys 2024
 - Travel Grant, OSDI 2023
 
-Outside of research, I enjoy driving and visiting U.S. National Parks.  
-When I get stuck on research, I also enjoy cleaning my room :)
+
+
+### Education
+
+- Ph.D. in Computer Science, Northeastern University, 2029 (expected)
+- M.S. in Computer Science, Northeastern University, 2024
+- B.S. in Zhejiang University, 2020
