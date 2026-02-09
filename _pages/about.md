@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to better evaluate LLMs.
+I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
 Outside of research, I enjoy driving and visiting U.S. National Parks.  
 
 
