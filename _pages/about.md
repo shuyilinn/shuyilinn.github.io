@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
 
 
@@ -46,8 +45,8 @@ I am a second-year PhD student in the Khoury College of Computer Sciences at Nor
 - B.S. in Zhejiang University, 2020
 
 ### Interests
-Outside of research, I find peace in Chinese calligraphy and painting. 
+Outside of research, I find peace in Chinese calligraphy, painting, and medieval landscape art. I also enjoy reading quiet literature.
 
-I am also a road trip enthusiast. My dream is to drive across the US with a detailed plan: starting from Boston to New York, through the Midwest (Ohio, the Great Lakes in Michigan, Iowa, Nebraska), visiting the Rocky Mountains in Colorado, the Grand Canyon in Arizona, and the deserts in Utah and Nevada. Finally, I plan to drive up the scenic Pacific Coast from Los Angeles to Vancouver.
+I am also a road trip enthusiast. My dream is to drive across the US with a detailed plan: starting from Boston to New York, through the Midwest (Ohio, **the Great Lakes** in Michigan, Iowa, Nebraska), visiting the **Rocky Mountains** in Colorado, the **Grand Canyon** in Arizona, and the **deserts** in Utah and Nevada. Finally, I plan to drive up the scenic **Pacific Coast** from Los Angeles to Vancouver.
 
 Feel free to contact me if you share this dream—maybe we can do it together! ...But first, I need to find an internship.
