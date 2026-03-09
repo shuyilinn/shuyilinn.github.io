@@ -47,9 +47,3 @@ I am a second-year PhD student in the Khoury College of Computer Sciences at Nor
 - B.S. in Zhejiang University, 2020
 
 
-### Interests
-Outside of research, I find peace in Chinese calligraphy, painting, and medieval landscape art. I also enjoy reading quiet literature.
-
-I am also a road trip enthusiast. My dream is to drive across the US. I already have a detailed plan: starting from Boston to New York, through the Midwest (Ohio, **the Great Lakes** in Michigan, Iowa, Nebraska), visiting the **Rocky Mountains** in Colorado, the **Grand Canyon** in Arizona, and the **deserts** in Utah and Nevada. Finally, I plan to drive up the scenic **Pacific Coast** from Los Angeles to Vancouver.
-
-Feel free to contact me if you share this dream. Maybe we can do it together. But first, I need to find an internship.
