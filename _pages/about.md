@@ -14,7 +14,7 @@ I am a second-year PhD student in the Khoury College of Computer Sciences at Nor
 
 - **Toward Principled LLM Safety Testing: Solving the Jailbreak Oracle Problem.**  
   Shuyi Lin, Anshuman Suri, Alina Oprea, Cheng Tan. *MLSys 2026.*  
-  [Paper](https://arxiv.org/pdf/2506.17299) · [Code](https://github.com/shuyilinn/BOA)
+  [Paper](https://arxiv.org/pdf/2506.17299) · [Code](https://github.com/shuyilinn/BOA/tree/mlsys2026ae)
 
 
 - **Specification Generation for Neural Networks in Networking Systems.**  
