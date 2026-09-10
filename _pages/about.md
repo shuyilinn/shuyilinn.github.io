@@ -6,11 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
+I am a third-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
 
 
 
 ### Publications
+
+- **Toward a Principled Framework for Agent Safety Measurement.**  
+  Shuyi Lin, Anshuman Suri, Alina Oprea, Cheng Tan. *ACM SIGOPS Operating Systems Review, 60(1):1-8, 2026.*  
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3830422.3830423)
 
 - **Toward Principled LLM Safety Testing: Solving the Jailbreak Oracle Problem.**  
   Shuyi Lin, Anshuman Suri, Alina Oprea, Cheng Tan. *MLSys 2026.*  
@@ -28,7 +32,8 @@ I am a second-year PhD student in the Khoury College of Computer Sciences at Nor
 
 - Reviewer:
   - Conferences: NeurIPS 2025
-  - Workshops: NeurIPS 2025 Workshops
+  - Artifact Evaluation: MLSys 2026
+  - Workshops: ICML 2026 Workshops, NeurIPS 2025 Workshops
 - Teaching Assistant:
   - CS5600 (Spring 2026)
   - CS6640 (Spring 2025)
