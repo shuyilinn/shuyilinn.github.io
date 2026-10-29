@@ -30,7 +30,8 @@ I am a third-year PhD student in the Khoury College of Computer Sciences at Nort
 
 ### Work Experience
 
-- Research Intern, Systems Research Group, Microsoft Research Asia (MSRA), Jun 2026 – Sep 2026
+- **Microsoft Research Asia (MSRA)**, Research Intern, Jun – Sep 2026  
+  Systems Research Group
 
 ### Service
 
