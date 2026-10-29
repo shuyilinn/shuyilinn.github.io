@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
+I am a third-year PhD student in the Khoury College of Computer Sciences at Northeastern University, advised by Prof. [Cheng Tan](https://naizhengtan.github.io/). I am working on Large Language Model Systems and safety. I am creating systems to evaluate LLMs efficiently and comprehensively.
 
 
 
@@ -27,6 +27,10 @@ I am a third-year PhD student in the Khoury College of Computer Sciences at Nort
 - **NN4SysBench: Characterizing Neural Network Verification for Computer Systems.**  
   Shuyi Lin, Haoyu He, Tianhao Wei, Kaidi Xu, Huan Zhang, Gagandeep Singh, Changliu Liu, and Cheng Tan. *NeurIPS 2024, Datasets and Benchmarks Track.*  
   [Website](https://shuyilinn.github.io/BenchmarkWeb/) · [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a652ef11196e949d079e2818574e7e3d-Paper-Datasets_and_Benchmarks_Track.pdf) · [Code](https://github.com/Khoury-srg/NN4SysBench/tree/main)
+
+### Work Experience
+
+- Research Intern, Systems Research Group, Microsoft Research Asia (MSRA), Jun 2026 – Sep 2026
 
 ### Service
 
